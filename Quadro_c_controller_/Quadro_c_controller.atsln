@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Quadro_c_controller", "Quadro_c_controller\Quadro_c_controller.cproj", "{C874AE58-35CE-4B9F-B10F-5CCEF2BBD843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C874AE58-35CE-4B9F-B10F-5CCEF2BBD843}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C874AE58-35CE-4B9F-B10F-5CCEF2BBD843}.Debug|AVR.Build.0 = Debug|AVR
+		{C874AE58-35CE-4B9F-B10F-5CCEF2BBD843}.Release|AVR.ActiveCfg = Release|AVR
+		{C874AE58-35CE-4B9F-B10F-5CCEF2BBD843}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

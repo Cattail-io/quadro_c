@@ -1,0 +1,78 @@
+P-CAD Bill of Materials                    D:\my\quadro_c\quadro_c.PCB
+
+======================================================================
+
+Count  ComponentName   RefDes          PatternName     Value           CurrentFootprin Description    
+------ --------------- --------------- --------------- --------------- --------------- ---------------
+
+     1 2PINS           BAT             DIP2-JUMP       LI-PO BAT       Primary                        
+     5 2PINS           RJ2             DIP2-JUMP       {Value}         Primary                        
+                       RJ3                                                                            
+                       RJ4                                                                            
+                       RJ5                                                                            
+                       UART                                                                           
+     1 ATMEGA48_20AI   DD1             TQFP32                          Primary                        
+     3 CAP0805         C1              C0805           0.1uF           Primary                        
+                       C6                                                                             
+                       C13                                                                            
+     7 CAP0805         C2              C0805           1uF             Primary                        
+                       C3                                                                             
+                       C4                                                                             
+                       C5                                                                             
+                       C8                                                                             
+                       C9                                                                             
+                       C10                                                                            
+     1 CAP0805         C11             C0805           2.2uF           Primary                        
+     2 CAP0805         C12             C0805           10nF            Primary                        
+                       C15                                                                            
+     2 CAP0805         C7              C0805           10uF            Primary                        
+                       C14                                                                            
+     1 CAP0805         C16             C0805           470nF           Primary                        
+     4 DIODE_SMA       VD1             SMA             SS16            Primary                        
+                       VD2                                                                            
+                       VD3                                                                            
+                       VD4                                                                            
+     1 L3G4200D        DD5             LGA16L                          Primary                        
+     1 LIS331          DD2             LGA16                           Primary                        
+     1 LP2985          DD4             SOT23-5                         Primary                        
+     1 MAX1555         DD3             SOT23-5                         Primary                        
+     1 PLD-6_MEGA_ISP  X1              PLD6                            Primary                        
+     1 RES0805         R17             R0805           0R              Primary                        
+     8 RES0805         R1              R0805           10k             Primary                        
+                       R3                                                                             
+                       R5                                                                             
+                       R7                                                                             
+                       R8                                                                             
+                       R14                                                                            
+                       R15                                                                            
+                       R16                                                                            
+     2 RES0805         R11             R0805           100k            Primary                        
+                       R12                                                                            
+     4 RES0805         R2              R0805           100R            Primary                        
+                       R4                                                                             
+                       R6                                                                             
+                       R9                                                                             
+     2 RES0805         R10             R0805           330R            Primary                        
+                       R13                                                                            
+     1 STD_LED_0805    HL1             LED0805         BAT_READY       Primary                        
+     1 STD_LED_0805    HL2             LED0805         RED             Primary                        
+     4 STD_N_CH_SOT23  VT1             SOT-23          IRLML0040       Primary                        
+                       VT2                                                                            
+                       VT3                                                                            
+                       VT4                                                                            
+     1 USB/M-1J        XT1             USB/M-1J        mini USB        Primary                        
+     1 XT_1            XP3             XP_1            CE              Primary                        
+     1 XT_1            XP4             XP_1            CSN             Primary                        
+     1 XT_1            XP1             XP_1            GND             Primary                        
+     1 XT_1            XP8             XP_1            IRQ             Primary                        
+     1 XT_1            XP7             XP_1            MISO            Primary                        
+     1 XT_1            XP6             XP_1            MOSI            Primary                        
+     1 XT_1            XP5             XP_1            SCK             Primary                        
+     1 XT_1            XP2             XP_1            VCC             Primary                        
+     7 XT_1            XP9             XP_1                            Primary                        
+                       XP10                                                                           
+                       XP11                                                                           
+                       XP12                                                                           
+                       XP13                                                                           
+                       XP14                                                                           
+                       XP16                                                                           
