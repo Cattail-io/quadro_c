@@ -15,7 +15,8 @@
     <AssemblyName>Quadro_c</AssemblyName>
     <Name>Quadro_c</Name>
     <RootNamespace>Quadro_c</RootNamespace>
-    <ToolchainFlavour>Native</ToolchainFlavour>
+    <ToolchainFlavour>
+    </ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
     <CacheFlash>true</CacheFlash>
