@@ -1,9 +1,9 @@
 # quadro_c
-Project of miniquadrocopter
+Project of miniquadcopter
 
 An original idea belongs to @tobbeanton from Bitcraze AB.
 
-An idea was to make my own controller for quadrocopter.
+An idea was to make my own controller for quadcopter.
 You can find here schematics (original files for P-CAD with library are included).
 Also there are firmware and source code in repo.
 
